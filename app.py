@@ -102,3 +102,5 @@ if submit:
         file_name="fishing_prediction_result.csv",
         mime="text/csv"
     )
+st.markdown("### 🎯 Objective")
+st.write("This system predicts fishing suitability using machine learning models trained on historical marine water-quality data.")
